@@ -1,4 +1,4 @@
-
+<img src = "./header.png"/>
 
 
 <h1 align="center">Hi 👋, I'm Amit Sharma</h1>

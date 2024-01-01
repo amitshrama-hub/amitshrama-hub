@@ -5,7 +5,7 @@
 <h3 align="center">Welcome to my GitHub profile! Here, you'll find a showcase of my skills, from coding and problem-solving to effective communication. My projects reflect my versatile abilities and passion for continuous learning. Let's collaborate and explore the possibilities!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsharma-hub&label=Profile%20views&color=0e75b6&style=flat" alt="amitsharma-hub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsharma-hub&label=Profile%20views&color=0e75b6&style=flat" alt="amitsharma-hub" autoplay/> </p>
 
 - 👨‍💻 All of my projects are available at [https://amitshrama-hub.github.io/me/](https://amitshrama-hub.github.io/me/)
 
